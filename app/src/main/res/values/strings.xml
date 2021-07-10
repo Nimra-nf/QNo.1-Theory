@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">18-Arid-3033_QNo.1</string>
+    <string-array name="ageunits">
+        <item>Days</item>
+        <item>Months</item>
+        <item>Year</item>
+    </string-array>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
